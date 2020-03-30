@@ -1,0 +1,4 @@
+#Mon Mar 30 19:17:58 CST 2020
+base.0=C\:\\Users\\xiwer\\Desktop\\dalvik-explorer3.9-instrument\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
